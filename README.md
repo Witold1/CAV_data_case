@@ -1,14 +1,22 @@
 ## Project
 **CAV company data case**.
 
-<img src="" align="center" alt="" width="70%">
+<img src="./figures/internal/pptx_slide.png" align="center" alt="" width="70%">
 
 ## Task description
 Research the data and answer additional questions
 
-Current **raw report available** [here](https://htmlpreview.github.io/)
+Current **raw report available** [[html]](https://htmlpreview.github.io/)| [[ipynb]](https://nbviewer.org/)
 
-Current **report available** on demand.
+Current **presentation available** on demand. [[pdf]](link)
+
+## Selected charts
+
+|                                                                                      	|
+|--------------------------------------------------------------------------------------	|
+| <img src="./figures/internal/Number of tests per day.png?raw=true" alt="Number of tests per day" width="300" height="250"> 	|
+| <img src="./figures/internal/Number of test per day bars.png?raw=true" alt="Number of test per day bars" width="300" height="250"> 	|
+| <img src="./figures/internal/Test distance per location - clouds.png?raw=true" alt="Test distance per location - clouds" width="300" height="250"> 	|
 
 ## Structure of repository
 ```
@@ -35,9 +43,7 @@ Project structure:
 ```
 
 ## Links
-* Feature engineering. Preprocessing. Charts [Here](https://nbviewer.org/)
+> Placeholder
 
 ## License and legals
 Ask before use.
-
-[Policy of site use](). [Policy of data processing](). [Link]().
